@@ -1,4 +1,4 @@
-package by.it.a_khmelev.lesson01;
+package by.it.a_group410972.grigorovich.lesson01;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
